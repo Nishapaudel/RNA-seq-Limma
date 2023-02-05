@@ -1,4 +1,4 @@
-# RNA-seq-Limma
+# RNA-seq Limma
 <article>
   <header>
     <h1>A heading here</h1>
